@@ -1,0 +1,59 @@
+{
+  "agenda": [
+    {
+      "cliente": "Henri Eduardo",
+      "servico": "Tosa",
+      "id": 1
+    }
+  ],
+  "clientes": [
+    {
+      "name": "ggggggggggggg",
+      "endereco": "gggggggggggggggg",
+      "id": 1
+    },
+    {
+      "name": "Henri Eduardo Eduardo",
+      "endereco": "Rua Honório Ferreira da silva",
+      "id": 2
+    },
+    {
+      "name": "Henri Eduardo Eduardo",
+      "endereco": "Rua Honório Ferreira da silva",
+      "id": 3
+    },
+    {
+      "name": "ANA",
+      "endereco": "kdjasdjasd",
+      "id": 4
+    },
+    {
+      "name": "ghfhfghfg",
+      "endereco": "Rua Honório Ferreira da silvahfghfghfghfhfgh",
+      "id": 5
+    },
+    {
+      "name": "Henri Eduardo Eduardo",
+      "endereco": "Rua Honório Ferreira da silva",
+      "id": 6
+    },
+    {
+      "name": "Henri Eduardo Eduardo",
+      "endereco": "Rua Honório Ferreira da silva",
+      "id": 7
+    },
+    {
+      "name": "ewrwe",
+      "endereco": "werwerwe",
+      "id": 8
+    }
+  ],
+  "TipoServicos": [
+    {
+      "tipo": "Banho",
+      "porte": "Pequeno",
+      "valor": "45",
+      "id": 1
+    }
+  ]
+}
